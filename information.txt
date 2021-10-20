@@ -1,0 +1,33 @@
+App Completa CRUD con Mysql, no se usó todo el videó por cambios en la version.
+
+yt: https://www.youtube.com/watch?v=0h2LBY5M8y4
+Electron & MySQL CRUD | Aplicación de escritorio con HTML, CSS y Javascript
+Fazt Code
+--
+19/10/2021
+----------------
+
+> npm i electron promise-mysql elctron-reload
+----------------
+https://bootswatch.com/
+
+----------------
+https://bootstrapmade.com/
+----------------
+https://stackoverflow.com/questions/44391448/electron-require-is-not-defined
+----------------
+https://runebook.dev/es/docs/electron/api/remote
+
+---------------- ??
+https://stackoverflow.com/questions/49016677/unable-to-use-remote-require-with-typescript
+
+---------------- ya esta en desuso el modulo: Remote, por si no funciona
+https://runebook.dev/es/docs/electron/api/remote
+
+---------------- Solucion para REMOTE, usar ipcRenderer e ipcMain  
+https://github.com/loricode/electron-mysql
+
+https://www.youtube.com/watch?v=Cp2_B7m0iIY
+----------------
+
+----------------
